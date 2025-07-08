@@ -1,6 +1,6 @@
 # YouTube to Content Creator
 
-Transform YouTube videos into Instagram or Medium content using AI agents! This app leverages CrewAI, Streamlit, and free APIs to generate high-quality, platform-optimized content from any YouTube video link.
+Transform YouTube videos into Instagram or Medium content using AI agents! This app leverages CrewAI, Streamlit, and quality APIs to generate high-quality, platform-optimized content from any YouTube video link.
 
 ---
 
